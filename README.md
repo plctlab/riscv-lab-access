@@ -5,17 +5,13 @@ Access bookkeeping for RISC-V Lab
 
 ## NOTICES
 
+### NOTICE: RISC-V Lab (Nanjing) Planned Maintenance Postponed
 
-### NOTICE: RISC-V Lab (Nanjing) Planned Maintenance (Preventive Maintenance of Power System)
+Dear Nanjing Lab users:
 
-Dear RISC-V Lab users:
-
-We are sorry to inform you that due to the power maintenance plan of the building/park where the RISC-V Lab (Nanjing) is located, Nanjing RISC-V Lab needs to be shut down and go offline between 18:00 on August 29 and 19:00 on August 30 in Shanghai time zone (UTC+0800). In addition, the second power maintenance will be carried out from 09:00 on September 10 to 18:00 on September 11 in Shanghai time zone.
-
-The scope of the impact includes machines numbered from Unmatched 010 to Unmatched 070. Hangzhou computer room and Wuhan computer room are not affected by the outage maintenance.
-
-Please do the necessary backup and maintenance work. We apologize for the rush in this maintenance notice.
+The planned power maintainace in Sept 10, 2022 has been postponed to the beginning of Oct, 2022. We'll let you know once the date is confirmed.
 
 Wei Wu
 PLCT Lab, ISCAS
-2022-08-28 01:20 UTC+8
+2022-09-09 15:48 UTC+8
+
