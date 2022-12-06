@@ -6,6 +6,11 @@ Access bookkeeping for RISC-V Lab
 ## NOTICES
 
 
+### Hangzhou RVLab offline (office relocation) notice
+
+Hello everyone, we have been notified that due to the adjustment of the office room of Hangzhou RVLab, we need to go offline from 0:00 on December 10th to December 15th Shanghai time, and resume the network around December 16th. The range of affected machines is: unmatched 001 - 009, unmatched 100 - 110. We will try to provide RISC-V devices from Wuhan or Beijing RVLab to users who need continuous access.
+
+
 ### NOTICE: RISC-V Lab (Nanjing) Planned Maintenance (Oct 3, 2022 UTC+0800)
 
 Dear users:
