@@ -5,6 +5,12 @@ Access bookkeeping for RISC-V Lab
 
 ## NOTICES
 
+### NOTICE: RISC-V Lab (Wuhan) Planned Suspension of Service (Apr 18, 2023 UTC+0800)
+
+Dear Wuhan Lab users:
+
+Due to the planned relocation of the machine room, Wuhan RISC-V Lab needs to be shut down from 8:00 am on April 18th to 18:00 pm on April 26th, Beijing time. All Unmatched boards or other real RISC-V hardware located in Wuhan Lab will be affected. Please take care to save the data in time. Sorry for the inconvenience caused.
+
 
 ### Hangzhou RVLab offline (office relocation) notice
 
