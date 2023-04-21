@@ -5,6 +5,13 @@ Access bookkeeping for RISC-V Lab
 
 ## NOTICES
 
+### NOTICE: RISC-V Lab (Nanjing) offline (Apr 27, 2023 UTC+0800)
+
+Dear Nanjing Lab users:
+
+Due to the planned network upgrade and relocation of the machine room, Nanjing RISC-V Lab needs to go offline from 23:59 on April 27, Beijing time. All Unmatched boards or other real RISC-V hardware located in Nanjing Lab will be affected. Please take care to save the data in time. The online time will be announced separately. Sorry for the inconvenience caused.
+
+
 ### NOTICE: RISC-V Lab (Wuhan) Planned Suspension of Service (Apr 18, 2023 UTC+0800)
 
 Dear Wuhan Lab users:
