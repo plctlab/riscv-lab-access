@@ -5,6 +5,24 @@ Access bookkeeping for RISC-V Lab
 
 ## NOTICES
 
+### NOTICE: Scheduled maintenance notification (Beijing node)
+
+Dear Beijing Lab users:
+
+In order to further improve the speed and stability of external network access, RVLab Beijing plans to redeploy the network from 14:00-17:00 on December 24, Beijing time. At that time, unmatched devices hosted in Beijing (ISCAS) may be disconnected. We apologize for the inconvenience caused.
+
+PST/PDT, Pacific Standard Time (US)
+10:00p - 2:00a Sun, Dec 24 2023
+
+SHANGHAI, China
+2:00p - 6:00p, Sun, Dec 24 2023
+
+CST, Central Standard Time (US)
+12:00a - 4:00a Sun, Dec 24, 2023
+
+CET, Central European Time
+7:00a - 11:00a Sun, Dec 24 2023
+
 ### NOTICE: RISC-V Lab (Nanjing) offline (Apr 27, 2023 UTC+0800)
 
 Dear Nanjing Lab users:
